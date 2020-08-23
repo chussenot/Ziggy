@@ -1,0 +1,2 @@
+module Sink
+end
